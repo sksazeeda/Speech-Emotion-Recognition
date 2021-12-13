@@ -1,3 +1,8 @@
+# EXECUTION VIDEO LINK:https://drive.google.com/file/d/1kvd4KGmvwqC_irSoD87fwBCvfceBVcXL/view?usp=sharing
+
+
+
+
 # Speech Emotion Analyzer
 
 * The idea behind creating this project was to build a machine learning model that could detect emotions from the speech we have with each other all the time. Nowadays personalization is something that is needed in all the things we experience everyday. 
