@@ -47,6 +47,7 @@ For feature extraction we make use of the [**LibROSA**](https://librosa.github.i
 
 <br>
 
+
 These are array of values with lables appended to them. 
 
 ## Building Models
@@ -94,3 +95,6 @@ The audio contained a male voice which said **"This coffee sucks"** in a angry t
 
 ## Conclusion
 Building the model was a challenging task as it involved lot of trail and error methods, tuning etc. The model is very well trained to distinguish between male and female voices and it distinguishes with 100% accuracy. The model was tuned to detect emotions with more than 70% accuracy. Accuracy can be increased by including more audio files for training.
+## final app
+The final app folder is the web application folder which I have done as a part of output.
+By using FLASK architecture i have created a web page where we import a audio file and the output is generated in terms of gender and emotion of the speaker. 
